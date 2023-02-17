@@ -1,4 +1,4 @@
-// My Solution
+// My Solution and Git functions
 const weights = { green: 1, yellow: 2, red: 3 }
 
 function weightedLottery(weights) {
