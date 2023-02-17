@@ -16,7 +16,7 @@ function weightedLottery(weights) {
 }
 console.log(weightedLottery(weights))
 
-// BottegaU Solution
+// BottegaU Solution exercise
 // const weightedLottery = weights => {
 //   let containerArray = [];
 
