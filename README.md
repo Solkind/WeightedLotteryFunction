@@ -3,3 +3,5 @@ Here's an implementation of a weighted lottery function in JavaScript that uses 
 Anothertestbranch change
 
 Another change for pull demo
+
+Demoing deleting local and remout branch in Git
